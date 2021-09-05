@@ -1,0 +1,22 @@
+{
+  "name": "asincronismoii",
+  "version": "1.0.0",
+  "description": "Consumo de APIS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/posmodernismoSIG/asincronismo.git"
+  },
+  "keywords": [
+    "asincronismo"
+  ],
+  "author": "joan sebastian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/posmodernismoSIG/asincronismo/issues"
+  },
+  "homepage": "https://github.com/posmodernismoSIG/asincronismo#readme"
+}
